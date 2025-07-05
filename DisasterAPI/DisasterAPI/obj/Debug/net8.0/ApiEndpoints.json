@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "DisasterAPI.Controllers.AlertController",
+    "Method": "GetAlerts",
+    "RelativePath": "api/Alert",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DisasterAPI.Controllers.RegionsController",
+    "Method": "AddAlertSetting",
+    "RelativePath": "api/alert-settings",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "settings",
+        "Type": "System.Collections.Generic.List\u00601[[DisasterAPI.Models.AlertSetting, DisasterAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DisasterAPI.Controllers.AlertController",
+    "Method": "SendAlerts",
+    "RelativePath": "api/Alert/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "highRiskReports",
+        "Type": "System.Collections.Generic.List\u00601[[DisasterAPI.Models.DisasterRiskReport, DisasterAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DisasterAPI.Controllers.RegionsController",
+    "Method": "GetDisasterRisks",
+    "RelativePath": "api/disaster-risks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DisasterAPI.Controllers.RegionsController",
+    "Method": "AddRegion",
+    "RelativePath": "api/regions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newRegions",
+        "Type": "System.Collections.Generic.List\u00601[[DisasterAPI.Models.Regions, DisasterAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
