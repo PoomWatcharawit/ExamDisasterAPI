@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|c:\\users\\poom\\documents\\github\\examdisasterapi\\disasterapi\\disasterapi\\disasterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|solutionrelative:disasterapi\\disasterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|c:\\users\\poom\\documents\\github\\examdisasterapi\\disasterapi\\disasterapi\\services\\disasterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|solutionrelative:disasterapi\\services\\disasterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|c:\\users\\poom\\documents\\github\\examdisasterapi\\disasterapi\\disasterapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|solutionrelative:disasterapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|c:\\users\\poom\\documents\\github\\examdisasterapi\\disasterapi\\disasterapi\\models\\disastermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|solutionrelative:disasterapi\\models\\disastermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|c:\\users\\poom\\documents\\github\\examdisasterapi\\disasterapi\\disasterapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|solutionrelative:disasterapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|c:\\users\\poom\\documents\\github\\examdisasterapi\\disasterapi\\disasterapi\\controllers\\alertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +27,12 @@
       "RelativeMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|solutionrelative:disasterapi\\services\\alertservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|c:\\users\\poom\\documents\\github\\examdisasterapi\\disasterapi\\disasterapi\\services\\disasterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|solutionrelative:disasterapi\\services\\disasterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|c:\\users\\poom\\documents\\github\\examdisasterapi\\disasterapi\\disasterapi\\connect\\disasterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|solutionrelative:disasterapi\\connect\\disasterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|c:\\users\\poom\\documents\\github\\examdisasterapi\\disasterapi\\disasterapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9639E7-8325-4CC3-99F0-27EAFA74B371}|DisasterAPI\\DisasterAPI.csproj|solutionrelative:disasterapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +42,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DisasterAPI.http",
-              "DocumentMoniker": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\DisasterAPI.http",
-              "RelativeDocumentMoniker": "DisasterAPI\\DisasterAPI.http",
-              "ToolTip": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\DisasterAPI.http",
-              "RelativeToolTip": "DisasterAPI\\DisasterAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-07-05T10:51:12.65Z",
+              "DocumentIndex": 2,
+              "Title": "DisasterModels.cs",
+              "DocumentMoniker": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\Models\\DisasterModels.cs",
+              "RelativeDocumentMoniker": "DisasterAPI\\Models\\DisasterModels.cs",
+              "ToolTip": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\Models\\DisasterModels.cs",
+              "RelativeToolTip": "DisasterAPI\\Models\\DisasterModels.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:02:39.259Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -57,46 +65,84 @@
               "RelativeDocumentMoniker": "DisasterAPI\\Controllers\\RegionsController.cs",
               "ToolTip": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\Controllers\\RegionsController.cs",
               "RelativeToolTip": "DisasterAPI\\Controllers\\RegionsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAIAwwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T09:25:26.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AlertController.cs",
               "DocumentMoniker": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\Controllers\\AlertController.cs",
               "RelativeDocumentMoniker": "DisasterAPI\\Controllers\\AlertController.cs",
               "ToolTip": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\Controllers\\AlertController.cs",
               "RelativeToolTip": "DisasterAPI\\Controllers\\AlertController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwDYAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwCcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T09:25:09.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "DisasterServices.cs",
               "DocumentMoniker": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\Services\\DisasterServices.cs",
               "RelativeDocumentMoniker": "DisasterAPI\\Services\\DisasterServices.cs",
               "ToolTip": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\Services\\DisasterServices.cs",
               "RelativeToolTip": "DisasterAPI\\Services\\DisasterServices.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAADwv3IAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T09:24:49.57Z"
+              "WhenOpened": "2025-07-05T09:24:49.57Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AlertServices.cs",
               "DocumentMoniker": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\Services\\AlertServices.cs",
               "RelativeDocumentMoniker": "DisasterAPI\\Services\\AlertServices.cs",
               "ToolTip": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\Services\\AlertServices.cs",
               "RelativeToolTip": "DisasterAPI\\Services\\AlertServices.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCEAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T09:24:40.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DisasterAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\appsettings.json",
+              "RelativeToolTip": "DisasterAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T14:01:03.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DisasterDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\Connect\\DisasterDbContext.cs",
+              "RelativeDocumentMoniker": "DisasterAPI\\Connect\\DisasterDbContext.cs",
+              "ToolTip": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\Connect\\DisasterDbContext.cs",
+              "RelativeToolTip": "DisasterAPI\\Connect\\DisasterDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:31:17.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "DisasterAPI\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\POOM\\Documents\\GitHub\\ExamDisasterAPI\\DisasterAPI\\DisasterAPI\\Models\\Response.cs",
+              "RelativeToolTip": "DisasterAPI\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:12:57.842Z"
             }
           ]
         }

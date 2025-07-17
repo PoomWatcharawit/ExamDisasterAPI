@@ -176,3 +176,4 @@ C:\Users\POOM\Documents\GitHub\ExamDisasterAPI\DisasterAPI\DisasterAPI\obj\Debug
 C:\Users\POOM\Documents\GitHub\ExamDisasterAPI\DisasterAPI\DisasterAPI\obj\Debug\net8.0\DisasterAPI.genruntimeconfig.cache
 C:\Users\POOM\Documents\GitHub\ExamDisasterAPI\DisasterAPI\DisasterAPI\obj\Debug\net8.0\ref\DisasterAPI.dll
 C:\Users\POOM\Documents\GitHub\ExamDisasterAPI\DisasterAPI\DisasterAPI\obj\Debug\net8.0\DisasterAPI.sourcelink.json
+C:\Users\POOM\Documents\GitHub\ExamDisasterAPI\DisasterAPI\DisasterAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

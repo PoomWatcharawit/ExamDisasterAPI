@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DisasterAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acc25b23cc577b53cc7ba6399e4a54ec78004a1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01a332c427a1292e806253a23e5ec23e6a10c7db")]
 [assembly: System.Reflection.AssemblyProductAttribute("DisasterAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DisasterAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
